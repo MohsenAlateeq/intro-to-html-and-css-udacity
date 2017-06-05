@@ -1,0 +1,40 @@
+body {
+    font-family: 'Lato', sans-serif;
+    color: #747704;
+    font-weight: 300;
+}
+
+header {
+    display: block;
+}
+
+section {
+    display: block;
+}
+
+figure {
+    display: block;
+}
+
+.text-muted {
+    color: #BCBBBB;
+}
+
+.text-thin {
+    font-weight: 100;
+}
+
+.title-super {
+    font-size: 40px;
+}
+
+.logo-img {
+    margin-top: 10px;
+    height: 120px;
+}
+
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
